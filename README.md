@@ -229,9 +229,9 @@
      ```bash
      id
      ```
-    ```bash
+     ```bash
      id username
-    ```
+     ```
 
 ### 38. **`whoami`**
    - *Display Current Username*
